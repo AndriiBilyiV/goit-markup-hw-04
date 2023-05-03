@@ -429,10 +429,7 @@ img {
   color: var(--main-text-dark-color);
 }
 .project-block {
-  border: 1px solid #e7e9fc;
-  border-top: none;
   width: 360px;
-  height: 420px;
 }
 .portfolio-link {
   display: block;
